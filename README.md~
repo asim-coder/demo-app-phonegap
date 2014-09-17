@@ -1,0 +1,24 @@
+demo-app-phonegap
+=================
+
+The app made from the tutorial http://ccoenraets.github.io/cordova-tutorial/routing.html and cutomized for the Alraislabs company.
+ 
+
+------------
+git push  <REMOTENAME> <BRANCHNAME>  // for push
+
+
+
+In Terminal, add the URL for the remote repository where your local repostory will be pushed.
+
+git remote add origin <remote repository URL>
+# Sets the new remote
+git remote -v
+# Verifies the new remote URL
+
+Push the changes in your local repository to GitHub.
+
+git push origin master
+# Pushes the changes in your local repository up to the remote repository you specified as the origin
+--------------
+
