@@ -1,5 +1,5 @@
 <?xml version='1.0' encoding='utf-8'?>
-<widget id="com.alrais.alrais" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
+<widget id="com.alraislabs.app" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <preference name="loglevel" value="DEBUG" />
     <preference name="AndroidLaunchMode" value="singleTop" />
     <feature name="App">
@@ -19,7 +19,7 @@
         Alrais Labs, Calicut
     </description>
     <author email="asim@alrais.com" href="http://alraislabs.com">
-        Apache Cordova Team
+        Asim KT
     </author>
     <content src="index.html" />
     <access origin="*" />

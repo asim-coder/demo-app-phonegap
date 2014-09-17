@@ -1,4 +1,4 @@
-/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-gen/com/alrais/alrais/R.java \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-gen/com/alraislabs/app/R.java \
  : /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/res/xml/config.xml \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/res/drawable-land-mdpi/screen.png \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/res/drawable-ldpi/icon.png \

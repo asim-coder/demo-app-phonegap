@@ -81,7 +81,10 @@
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/ratchet/css/ratchet-theme-ios.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/ratchet/css/ratchet.min.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/ratchet/css/ratchet-theme-ios.min.css \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/bootstrap.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/images \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/main.css \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/font-awesome.min.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/styles.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/pageslider.css \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/images/ic_action_mail.png \
@@ -100,6 +103,7 @@
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/css/images/ic_action_add.png \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Neethu_Ravindran.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Sanoop_T.jpg \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/logosmall.png \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Iqbal_M.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Anand_Varghese.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Paul_Jones.jpg \
@@ -107,6 +111,7 @@
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Steven_Wells.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Ray_Moore50.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Ray_Moore.jpg \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/bg.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Asim_KT.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Steven_Wells50.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Manu_TV.jpg \
@@ -114,4 +119,5 @@
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Abhilash_KK.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/Paul_Jones50.jpg \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/James_King50.jpg \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/assets/www/assets/pics/logo_sm.png \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/AndroidManifest.xml \

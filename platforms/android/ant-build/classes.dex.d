@@ -1,4 +1,11 @@
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes.dex : \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/R.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/HelloWorld.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/R$xml.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/R$attr.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/R$drawable.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/R$string.class \
+/home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/alraislabs/app/BuildConfig.class \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/examle/hello/R.class \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/examle/hello/HelloWorld.class \
 /home/alrais/Development/cordova/demo-app-phonegap/platforms/android/ant-build/classes/com/examle/hello/R$xml.class \

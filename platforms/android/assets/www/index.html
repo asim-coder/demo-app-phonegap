@@ -3,23 +3,41 @@
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no, minimum-scale=1.0, maximum-scale=1.0">
+    <title>Alrais Labs</title>
     <link href="assets/ratchet/css/ratchet.css" rel="stylesheet">
 	<link href="assets/css/styles.css" rel="stylesheet">
 	<link href="assets/css/pageslider.css" rel="stylesheet">
+
+    <link href="assets/css/main.css" rel="stylesheet">
+    <link href="assets/css/font-awesome.min.css" rel="stylesheet">
+    <link href="assets/css/bootstrap.css" rel="stylesheet">
+
 	<script src="lib/handlebars.js"></script>
 </head>
 <body>
-<script id="home-tpl" type="text/template">
+<script id="home-tpl" type="text/template" class = "orange">
     <header class="bar bar-nav">
-        <h1 class="title">Demo App</h1>
+        <!--<img src = "assets/pics/logo_sm.png" class = "headr">-->
+      <div id="hello">
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-8 col-lg-offset-2 centered">
+            <h1>Alrais Labs</h1>
+            <h3>UAE</h3>
+            <h2>Search our Employees </h2>
+          </div>
+        </div>
+      </div> 
+      </div>
+
     </header>
-    <div class="bar bar-standard bar-header-secondary">
+    <div class="bar bar-standard bar-header-secondary search-bar">
         <input class='search-key' type="search"/>
     </div>
     <div class="content"></div>
 </script>
-<script id="employee-list-tpl" type="text/template">
-    <ul class="table-view">
+<script id="employee-list-tpl" type="text/template" class = "orange">
+    <ul class="table-view emp-list">
         {{#each this}}
         <li class="table-view-cell media">
           <a href="#employees/{{ id }}">
@@ -33,14 +51,14 @@
         {{/each}}
     </ul>
 </script>
-<script id="employee-tpl" type="text/template">
+<script id="employee-tpl" type="text/template" class = "orange">
       <header class="bar bar-nav">
           <a class="btn btn-link btn-nav pull-left" href="#">
               <span class="icon icon-left-nav"></span>
           </a>
-          <h1 class="title">Employee</h1>
+          <h1 class="title">Employee Detail</h1>
       </header>
-      <div class="content">
+      <div class="content orange">
           <div class="card">
               <ul class="table-view">
                   <li class="table-view-cell media">

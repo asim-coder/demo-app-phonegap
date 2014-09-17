@@ -1,5 +1,25 @@
+.orange {
+    background-color: #f96f00;
+    padding-bottom: 55px;
+}
+.headr{
+    padding-top: 30px;
+}
+.search-bar{
+    margin-top: 200px;
+    margin-bottom: 150px;
+}
+.emp-list {
+    margin-top: 400px;
+}
+
 ul {
     clear: both;
+}
+
+.title {
+    /*color: #a213c2;*/
+    color: #333;
 }
 
 .content {
